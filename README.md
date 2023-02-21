@@ -21,3 +21,6 @@
   * X方向溫度隨位置變化
 * viscosity.c
   * 黏滯係數與溫度關係式
+
+# Reference
+* Manual, U. D. F. (2009). ANSYS FLUENT 12.0. Theory Guide.
