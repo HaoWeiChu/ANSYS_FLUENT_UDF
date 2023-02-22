@@ -8,7 +8,7 @@
 
 ## 血管脈動流體質量流率輸入(artery_pulsatile.c)
 第一個程式碼為血流脈動流體的質量流率輸入，目的為模擬血管的流動當中，將血流的周期性變化流動使用分段函數進行編寫並作為血管的質量流率輸入。
-![image](https://github.com/HaoWeiChu/ANSYS_FLUENT_UDF/blob/main/Artery_Pulsitile%20flow/pulsatile_flow.png)
+![image](https://github.com/HaoWeiChu/ANSYS_FLUENT_UDF/blob/main/Artery_Pulsatile%20flow/pulsatile_flow.png)
 
 ## 溫度隨位置方向變化邊界條件(temperature_profile.c)
 第二個程式碼為設置流體中溫度的變化隨位置而改變，目的將血管中不同位置的溫度邊界條件以函數形式編寫。
@@ -16,7 +16,7 @@
 
 ## 不同溫度的黏滯係數(viscosity.c)
 第三個程式碼為當流體性質的黏滯係數會隨著溫度而改變，以下為改變的關係式。
-![image](https://github.com/HaoWeiChu/ANSYS_FLUENT_UDF/blob/main/Viscisity/temp_dependent_viscosity.png)
+![image](https://github.com/HaoWeiChu/ANSYS_FLUENT_UDF/blob/main/Viscosity/temp_dependent_viscosity.png)
 
 
 
