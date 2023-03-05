@@ -24,7 +24,7 @@
 
 
 ## Files
-* artery_pulsitile.c
+* artery_pulsatile.c
   * 血流脈動週期(質量流率輸入)
 * temperature_profile.c
   * X方向溫度隨位置變化
